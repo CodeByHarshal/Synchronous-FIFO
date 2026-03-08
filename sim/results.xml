@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1772813021" />
+    <testcase name="fifo_test" classname="test_fifo" file="/home/harshaldhage/HARSHAL/projects/sync_fifo/dv/test_fifo.py" lineno="19" time="0.00139617919921875" sim_time_ns="150.0" ratio_time="107436.0655737705" />
+  </testsuite>
+</testsuites>
